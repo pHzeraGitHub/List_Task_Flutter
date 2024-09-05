@@ -9,6 +9,10 @@ Este é um aplicativo simples de tarefas, desenvolvido em Flutter.
 3. Instale as dependências: `flutter pub get`
 4. Execute o aplicativo: `flutter run`
 
+## Captura de Tela
+
+![Captura de Tela](assets/List_Task.png)
+
 
 # List_Task_Flutter
 
